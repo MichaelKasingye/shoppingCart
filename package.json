@@ -1,0 +1,29 @@
+{
+  "name": "shoppingcart",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.5.0",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^8.2.0",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "express-ejs-layouts": "^2.5.0",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.17.1",
+    "express-validator": "^6.5.0",
+    "git": "^0.1.5",
+    "gitignore": "^0.6.0",
+    "http-errors": "~1.6.3",
+    "mike": "0.0.3",
+    "mongoose": "^5.9.18",
+    "morgan": "~1.9.1",
+    "nodemon": "^2.0.4"
+  }
+}
